@@ -1,0 +1,5 @@
+elective_id,name,description
+elective_CS_SE,Software Engineering Electives,SE elective group
+elective_DSAI_AI,AI Electives,AI ML electives
+elective_IoT_Systems,IoT Systems Electives,IoT focused electives
+elective_RSGIS_Spatial,Spatial Analysis Electives,GIS and RS electives

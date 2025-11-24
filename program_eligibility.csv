@@ -1,0 +1,13 @@
+program_id,eligibility_id
+prog_CS,elig_generic_bachelor
+prog_CS,elig_generic_english
+prog_CS,elig_cs_math_background
+prog_DSAI,elig_generic_bachelor
+prog_DSAI,elig_generic_english
+prog_DSAI,elig_cs_math_background
+prog_ICT,elig_generic_bachelor
+prog_ICT,elig_generic_english
+prog_IM,elig_generic_bachelor
+prog_IoT,elig_generic_bachelor
+prog_RSGIS,elig_generic_bachelor
+prog_TC,elig_generic_bachelor

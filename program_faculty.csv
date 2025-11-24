@@ -1,0 +1,15 @@
+program_id,faculty_id
+prog_CS,fac_chutiporn
+prog_CS,fac_chaklam
+prog_CS,fac_vatcharaporn
+prog_DSAI,fac_attaphongse
+prog_DSAI,fac_chutiporn
+prog_ICT,fac_attaphongse
+prog_ICT,fac_teerapat
+prog_IM,fac_chutiporn
+prog_IM,fac_vatcharaporn
+prog_IoT,fac_attaphongse
+prog_RSGIS,fac_nitin
+prog_RSGIS,fac_sarawut
+prog_TC,fac_teerapat
+prog_TC,fac_salvatore

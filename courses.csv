@@ -1,0 +1,11 @@
+course_id,program_id,code,name,description,is_elective
+course_CS_DSALG,prog_CS,AT70.02,Data Structures and Algorithms,algorithms and data structures,FALSE
+course_CS_TOC,prog_CS,AT70.03,Theory of Computation,computation models,FALSE
+course_CS_NET,prog_CS,AT70.05,Computer Networks,networking concepts,TRUE
+course_CS_SEC,prog_CS,AT70.13,Computer Security,cybersecurity concepts,TRUE
+course_DSAI_ML,prog_DSAI,DS601,Machine Learning,ML foundations,FALSE
+course_ICT_Core,prog_ICT,ICT601,ICT Systems and Services,ICT fundamentals,FALSE
+course_IM_IS,prog_IM,IM601,Information Systems Management,IS management,FALSE
+course_IoT_ENG,prog_IoT,IoT601,IoT Systems Engineering,IoT systems design,FALSE
+course_RSGIS_RS,prog_RSGIS,RS601,Remote Sensing,RS fundamentals,FALSE
+course_TC_CORE,prog_TC,TC601,Modern Telecommunications,telecom concepts,FALSE

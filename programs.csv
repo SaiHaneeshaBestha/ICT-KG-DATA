@@ -1,0 +1,8 @@
+program_id,department_id,name,level,degree,website,description
+prog_CS,dept_ICT,Computer Science,Master,MSc,https://ait.ac.th/program/computer-science/,Core CS program including AI software engineering networking and information systems
+prog_DSAI,dept_ICT,Data Science and AI,Master,MSc,https://ait.ac.th/program/data-science-and-ai/,AI and data science program developed with international partners
+prog_ICT,dept_ICT,Information & Communication Technologies,Master,MSc,https://ait.ac.th/program/information-communication-technologies/,Integrates telecommunications computer science and information management
+prog_IM,dept_ICT,Information Management,Master,MSc,https://ait.ac.th/program/information-management/,Focuses on information systems management and digital transformation
+prog_IoT,dept_ICT,Internet of Things (IoT) Systems Engineering,Master,MSc,https://ait.ac.th/program/internet-of-things-iot-systems-engineering/,IoT systems engineering and smart device connectivity
+prog_RSGIS,dept_ICT,Remote Sensing and GIS (RS-GIS),Master,MSc,https://ait.ac.th/program/remote-sensing-and-geographic-information-systems-rs-gis/,Remote sensing spatial data GIS and geospatial analysis
+prog_TC,dept_ICT,Telecommunications,Master,MSc,https://ait.ac.th/program/telecommunications-tc/,Modern telecommunications networks signalling and network planning

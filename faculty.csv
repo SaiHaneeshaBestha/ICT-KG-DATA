@@ -1,0 +1,9 @@
+faculty_id,name,title,department_id,profile_url,expertise_text
+fac_attaphongse,Attaphongse Taparugssanagorn,Professor,dept_ICT,https://ait.ac.th/people/dr-attaphongse-taparugssanagorn/,signal processing AI wireless communications IoT
+fac_teerapat,Teerapat Sanguankotchakorn,Dr,dept_ICT,https://ait.ac.th/people/dr-teerapat-sanguankotchakorn/,telecommunications networking
+fac_nitin,Nitin Kumar Tripathi,Professor,dept_ICT,https://ait.ac.th/people/prof-nitin-kumar-tripathi/,remote sensing GIS geoinformatics
+fac_sarawut,Sarawut Ninsawat,Dr,dept_ICT,https://ait.ac.th/people/dr-sarawut-ninsawat/,remote sensing GIS
+fac_salvatore,Salvatore G.P. Virdis,Dr,dept_ICT,https://ait.ac.th/people/dr-salvatore-g-p-virdis/,telecommunications networking
+fac_chutiporn,Chutiporn Anutariya,Dr,dept_ICT,https://ait.ac.th/people/dr-chutiporn-anutariya/,software engineering computer science information systems
+fac_chaklam,Chaklam Silpasuwanchai,Dr,dept_ICT,https://ait.ac.th/people/dr-chaklam-silpasuwanchai/,human computer interaction computer science
+fac_vatcharaporn,Vatcharaporn Esichaikul,Dr,dept_ICT,https://ait.ac.th/people/dr-vatcharaporn-esichaikul/,information systems information management

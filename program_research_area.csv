@@ -1,0 +1,9 @@
+program_id,research_area_id
+prog_CS,research_CS
+prog_CS,research_AI_DS
+prog_DSAI,research_AI_DS
+prog_ICT,research_Telecom
+prog_IM,research_InfoMgmt
+prog_IoT,research_IoT
+prog_RSGIS,research_RSGIS
+prog_TC,research_Telecom
